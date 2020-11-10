@@ -1,0 +1,9 @@
+#footer-widgets .widget {
+    margin-bottom: 25px;
+    width: 25%;
+}
+
+#footer-widgets .widget:last-of-type {
+    margin-bottom: 25px;
+    width: 100%;
+}

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:g="http://base.google.com/ns/1.0" xmlns:c="http://base.google.com/cns/1.0">
+  <channel>
+    <title><![CDATA[Wordpress_practicas]]></title>
+    <link><![CDATA[http://localhost/wordpress_practicas]]></link>
+    <description><![CDATA[Otro sitio realizado con WordPress]]></description>
+<item>
+<g:id>79</g:id>
+<title><![CDATA[Lomo con publicidad]]></title>
+<description/>
+<g:item_group_id>79</g:item_group_id>
+<link><![CDATA[http://localhost/wordpress_practicas/producto/lomo-con-publicidad/]]></link>
+<g:product_type><![CDATA[Sin categorizar]]></g:product_type>
+<g:google_product_category/>
+<g:image_link/>
+<g:condition>new</g:condition>
+<g:availability>in stock</g:availability>
+<g:price><![CDATA[50.00  EUR]]></g:price>
+<g:sale_price><![CDATA[50.00  EUR]]></g:sale_price>
+<g:mpn><![CDATA[79]]></g:mpn>
+<g:brand><![CDATA[Localhost]]></g:brand>
+<g:identifier_exists>yes</g:identifier_exists></item>
+<item>
+<g:id>45</g:id>
+<title><![CDATA[Lomo Iberico Cerdo Bellota]]></title>
+<description/>
+<g:item_group_id>45</g:item_group_id>
+<link><![CDATA[http://localhost/wordpress_practicas/producto/lomo-iberico-cerdo-bellota/]]></link>
+<g:product_type><![CDATA[Embutidos Iberico]]></g:product_type>
+<g:google_product_category/>
+<g:image_link><![CDATA[http://localhost/wordpress_practicas/wp-content/uploads/2020/10/lomo-iberico-cebo.jpg]]></g:image_link>
+<g:condition>new</g:condition>
+<g:availability>in stock</g:availability>
+<g:price><![CDATA[23.00  EUR]]></g:price>
+<g:sale_price><![CDATA[23.00  EUR]]></g:sale_price>
+<g:mpn><![CDATA[45]]></g:mpn>
+<g:brand><![CDATA[Localhost]]></g:brand>
+<g:identifier_exists>yes</g:identifier_exists></item>
+<item>
+<g:id>42</g:id>
+<title><![CDATA[lomo Ibérico Cebo]]></title>
+<description/>
+<g:item_group_id>42</g:item_group_id>
+<link><![CDATA[http://localhost/wordpress_practicas/producto/lomo-iberico-de-bellota/]]></link>
+<g:product_type><![CDATA[Embutidos Iberico]]></g:product_type>
+<g:google_product_category/>
+<g:image_link><![CDATA[http://localhost/wordpress_practicas/wp-content/uploads/2020/10/salchichon-iberico-de-bellota.jpg]]></g:image_link>
+<g:condition>new</g:condition>
+<g:availability>in stock</g:availability>
+<g:price><![CDATA[22.00  EUR]]></g:price>
+<g:sale_price><![CDATA[22.00  EUR]]></g:sale_price>
+<g:mpn><![CDATA[42]]></g:mpn>
+<g:brand><![CDATA[Localhost]]></g:brand>
+<g:identifier_exists>yes</g:identifier_exists></item>
+<item>
+<g:id>23</g:id>
+<title><![CDATA[Carne picada ternera]]></title>
+<description><![CDATA[<h1 class="product_title entry-title">Carne Picada de Ternera / Añojo</h1>]]></description>
+<g:item_group_id>23</g:item_group_id>
+<link><![CDATA[http://localhost/wordpress_practicas/producto/carne-picada-ternera/]]></link>
+<g:product_type><![CDATA[Carniceria]]></g:product_type>
+<g:google_product_category/>
+<g:image_link><![CDATA[http://localhost/wordpress_practicas/wp-content/uploads/2020/10/Carne-picada-ternera-scaled.jpg]]></g:image_link>
+<g:condition>new</g:condition>
+<g:availability>in stock</g:availability>
+<g:price/>
+<g:sale_price/>
+<g:mpn><![CDATA[23]]></g:mpn>
+<g:brand><![CDATA[Localhost]]></g:brand>
+<g:identifier_exists>yes</g:identifier_exists></item>
+<item>
+<g:id>19</g:id>
+<title><![CDATA[Solomillo entero]]></title>
+<description><![CDATA[<p class="product_title entry-title">Solomillo entero de Vaca 3Kg</p>]]></description>
+<g:item_group_id>19</g:item_group_id>
+<link><![CDATA[http://localhost/wordpress_practicas/producto/solomillo-entero/]]></link>
+<g:product_type><![CDATA[Carniceria]]></g:product_type>
+<g:google_product_category/>
+<g:image_link><![CDATA[http://localhost/wordpress_practicas/wp-content/uploads/2020/10/Solomillo-vaca-scaled.jpg]]></g:image_link>
+<g:condition>new</g:condition>
+<g:availability>in stock</g:availability>
+<g:price><![CDATA[38.00  EUR]]></g:price>
+<g:sale_price><![CDATA[38.00  EUR]]></g:sale_price>
+<g:mpn><![CDATA[19]]></g:mpn>
+<g:brand><![CDATA[Localhost]]></g:brand>
+<g:identifier_exists>yes</g:identifier_exists></item>
+<item>
+<g:id>15</g:id>
+<title><![CDATA[Hamburguesas Pack de 2]]></title>
+<description><![CDATA[<p class="product_title entry-title">Pack de 2 Hamburguesas Premium de 180gr</p>]]></description>
+<g:item_group_id>15</g:item_group_id>
+<link><![CDATA[http://localhost/wordpress_practicas/producto/hamburguesas-pack-de-2/]]></link>
+<g:product_type><![CDATA[Carniceria]]></g:product_type>
+<g:google_product_category/>
+<g:image_link><![CDATA[http://localhost/wordpress_practicas/wp-content/uploads/2020/10/Hamburguesa-Premium_img_Hamburguesas_HHPBG-1.jpg]]></g:image_link>
+<g:condition>new</g:condition>
+<g:availability>out of stock</g:availability>
+<g:price><![CDATA[35.00  EUR]]></g:price>
+<g:sale_price><![CDATA[35.00  EUR]]></g:sale_price>
+<g:mpn><![CDATA[15]]></g:mpn>
+<g:brand><![CDATA[Localhost]]></g:brand>
+<g:identifier_exists>yes</g:identifier_exists></item>
+<item>
+<g:id>12</g:id>
+<title><![CDATA[Lomo Alto Ternera Añojo]]></title>
+<description><![CDATA[<p class="product_title entry-title">Lomo Alto de Ternera</p>
+<p class="product_title entry-title"> Añojo – pieza aprox. 350 gr</p>]]></description>
+<g:item_group_id>12</g:item_group_id>
+<link><![CDATA[http://localhost/wordpress_practicas/producto/carne_test/]]></link>
+<g:product_type><![CDATA[Carniceria]]></g:product_type>
+<g:google_product_category/>
+<g:image_link><![CDATA[http://localhost/wordpress_practicas/wp-content/uploads/2020/10/lomo-ternera.jpg]]></g:image_link>
+<g:condition>new</g:condition>
+<g:availability>in stock</g:availability>
+<g:price><![CDATA[30.00  EUR]]></g:price>
+<g:sale_price><![CDATA[30.00  EUR]]></g:sale_price>
+<g:mpn/>
+<g:brand><![CDATA[Localhost]]></g:brand>
+<g:identifier_exists>no</g:identifier_exists></item>  </channel>
+</rss>
